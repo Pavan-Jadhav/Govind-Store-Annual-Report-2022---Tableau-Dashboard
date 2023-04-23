@@ -21,11 +21,16 @@ Dataset used from YouTube, refer: <code>[YouTube Dataset](https://docs.google.co
 
 ### I have attached the Cleaned Dataset File to check yourself how it's done.
   
- * <a href="https://github.com/Pavan-Jadhav/Govind-Store-Annual-Report-2022/blob/main/Govind%20Store%20Data%20Analysis%202023%20-%20For%20GIT.xlsx"> Link to Dataset File </a>  
+ * <a href="https://github.com/Pavan-Jadhav/Govind-Store-Annual-Report-2022/blob/main/Govind%20Store%20Data%20Analysis%202023%20-%20For%20GIT.xlsx"> Link to Dataset File </a>
+ 
+  * <a href="https://public.tableau.com/app/profile/pavan.jadhav3826/viz/GovindStoreAnnualReport2022-InteractiveDashboard/GovindStoreAnnualReport2022"> Link to Tableau Interactive Dashboard of Govind Store </a>
+  
   
 ## We generated different types of Charts, maps with the help of Tableau and Combined them in a Interactive Dashboard as follow:
  
   <picture><img align="center" src="https://github.com/Pavan-Jadhav/Govind-Store-Annual-Report-2022---Tableau-Dashboard/blob/main/Govind%20Store%20Annual%20Tableau-Dashboard-Gif.gif" alt="Govind Store Annual Report 2022 - Tableau Dashboard"/></picture>
+  
+<center><a href="https://public.tableau.com/app/profile/pavan.jadhav3826/viz/GovindStoreAnnualReport2022-InteractiveDashboard/GovindStoreAnnualReport2022"> Link to Tableau Interactive Dashboard of Govind Store </a></center>
   
 ## Project Summary:
   
@@ -36,14 +41,14 @@ Dataset used from YouTube, refer: <code>[YouTube Dataset](https://docs.google.co
 * Adult age group (30-49 years) is Max Contributing to Sales
 * Amazon, Flipkart and Myntra Channels are Max Contributing to overall sales
 
-** --> Target women customers of age group (30-49 yrs) in above mentioned states and show coupons / offers on mentioned Channels to Increase the sales drastically. **
+**--> Target women customers of age group (30-49 yrs) in above mentioned states and show coupons / offers on mentioned Channels to Increase the sales drastically.**
 
 ## Project References: 🔗
 
 |**Sr.No. 🔢**|**References 👨‍💻**| **Links :link:**|
 |------|--------------------|---------------------|
 |1| ** Excel Dataset ** | [Dataset](https://docs.google.com/spreadsheets/d/1N_Aa45UnkPmnwGqNr6oTzvUhb5TKlitM/edit#gid=1081836936)|
-|2| ** Tableau Dashboard ** | [Public Version](https://public.tableau.com/app/discover)|
+|2| ** Tableau Dashboard Link ** | [Public Version](https://public.tableau.com/app/profile/pavan.jadhav3826/viz/GovindStoreAnnualReport2022-InteractiveDashboard/GovindStoreAnnualReport2022)|
   
 ## Related Projects:question: 👨‍💻 🛰️
 
