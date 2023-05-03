@@ -36,8 +36,8 @@ Dataset used from YouTube, refer: <code>[YouTube Dataset](https://docs.google.co
   
 * Women are more likely to buy compared to men
 * "Adult" Consumers are Govind Store's Elite Customers because they bring most of the sales
-* "Set" and "Bottom" are the highest and lowest seling products respectively
-* Maharashtra, Karnatka and Uttar Pradesh are the Top 3 States where sales is coming from
+* "Set" and "Bottom" are the highest and lowest selling products respectively
+* Maharashtra, Karnataka and Uttar Pradesh are the Top 3 States where sales is coming from
 * Adult age group (30-49 years) is Max Contributing to Sales
 * Amazon, Flipkart and Myntra Channels are Max Contributing to overall sales
 
